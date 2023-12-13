@@ -1303,7 +1303,7 @@ textarea {
 ==============================*/
 .contact-us-page {
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 0px;
     background-color: var(--box-body-bgcolor);
     border-bottom: 1px solid var(--theme-border-color);
 }
